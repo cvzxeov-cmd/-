@@ -22,8 +22,8 @@
    - Склонируйте репозиторий проекта и перейдите в его директорию:
 
      ```bash
-     git clone <URL_репозитория>
-     cd <название_папки_с_кодом>
+     git clone https://github.com/cvzxeov-cmd/Telegram-Bot-for-Automatic-Channel-Membership-Approval.git
+     cd Telegram-Bot-for-Automatic-Channel-Membership-Approval
      ```
 
    - Установите зависимости, если они есть:
